@@ -10,9 +10,9 @@
 - Memory-Based Collaborative Filtering
 - Model-Based Collaborative Filtering
 ###### MemoryBCF
-####### Two main sections:
-- user-item filtering
-- item-item filtering
+- Two main sections:
+    - user-item filtering
+    - item-item filtering
 
 
 ##### Implementations:
